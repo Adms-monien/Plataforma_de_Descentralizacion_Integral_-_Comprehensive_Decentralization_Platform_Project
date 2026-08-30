@@ -1,8 +1,8 @@
-# Proyecto de Plataforma de Descentralización Integral — Comprehensive Decentralization Platform Project.
+# Proyecto de Plataforma de Descentralización Integral — Comprehensive Decentralization Platform Project
 
-Infraestructura para la soberanía alimentaria, la economía real, la coordinación autónoma y las redes descentralizadas.
+Infraestructura para la soberanía alimentaria, la economía real, la coordinación autónoma y las redes descentralizadas
 
-Infrastructure for food sovereignty, the real economy, autonomous coordination, and decentralized networks.
+Infrastructure for food sovereignty, the real economy, autonomous coordination, and decentralized networks
 
 
 
