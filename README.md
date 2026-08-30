@@ -61,8 +61,9 @@ Buscando financiamiento para el desarrollo del prototipo. — Seeking funding fo
 
 Documentación — Documentation
 
-    [Actualidad del documento — Document Version Status(spanish)] https://drive.proton.me/urls/T10VEEV2AR#RUv6Mk0SWzvf  Documento de texto OpenDocument — OpenDocument Text File
-    [Índice de lo faltante — Index of Missing Items(spanish)] https://drive.proton.me/urls/8ZSZ7ZZP5W#gyW5QDnSCKWN  Archivo binario — Binary File
+    [Actualidad del documento — Document Version Status](https://drive.proton.me/urls/T10VEEV2AR#RUv6Mk0SWzvf) — Documento de texto OpenDocument — OpenDocument Text File (spanish)
+
+    [Índice de lo faltante — Index of Missing Items](https://drive.proton.me/urls/8ZSZ7ZZP5W#gyW5QDnSCKWN) — Archivo binario — Binary File (spanish)
 
 <br>
 
