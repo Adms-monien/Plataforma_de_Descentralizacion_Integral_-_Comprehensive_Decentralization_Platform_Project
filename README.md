@@ -17,6 +17,7 @@ El problema — The Problem
 La solución — The Solution
 
 Adamas es una infraestructura de coordinación que permite a las comunidades autogestionar su economía y gobernanza. Integra:
+
 Adamas is a coordination infrastructure that enables communities to self-manage their economy and governance. It integrates:
 
    
@@ -66,4 +67,30 @@ Documentación — Documentation
    [Índice de lo faltante — Index of Missing Items](https://drive.proton.me/urls/8ZSZ7ZZP5W#gyW5QDnSCKWN) — Archivo binario — Binary File (spanish)
 
 <br>
+.
+<br>
+<br>
+<br>
+<br>
+
+☕ Apoya este proyecto — Support this project ☕
+
+🛠️Este proyecto es desarrollado de forma independiente. Si te ha parecido útil o importante, tu apoyo ayuda a que se expanda 💚
+
+🛠️This project is independently developed. If you've found it useful or valuable, your support helps it grow 💚
+
+<br>
+Se reciben depositos en cripto moneda — Crypto donations accepted:
+
+
+Depositame Usdt — Send USDT:
+
+
+| Red/Network | Dirección/Address |
+|-------|-------|
+| Tron (TRC20) | TB7GQqoCWKr69nbPymmThkhXASE38rLiRT |
+| Polygon (Usdt0) | 0x053abfd618480d1fd5ea253c39572185e9000bc1 |
+| Solana | FAWUVjXnKnTxWN22bLytHtaPAYjX6hk5aAfWBposcrEd |
+| Ethereum (Erc20) | 0x053abfd618480d1fd5ea253c39572185e9000bc1 |
+
 
