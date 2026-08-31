@@ -73,11 +73,11 @@ Documentación — Documentation
 <br>
 <br>
 
-☕ Apoya este proyecto — Support this project ☕
+🔥 Apoya este proyecto — Support this project 
 
-🛠️Este proyecto es desarrollado de forma independiente. Si te ha parecido útil o importante, tu apoyo ayuda a que se expanda 💚
+🛠️Este proyecto es desarrollado de forma independiente. Si te ha parecido útil o importante, tu apoyo ayuda a que se expanda 
 
-🛠️This project is independently developed. If you've found it useful or valuable, your support helps it grow 💚
+🛠️This project is independently developed. If you've found it useful or valuable, your support helps it grow 
 
 <br>
 Se reciben depositos en cripto moneda — Crypto donations accepted:
