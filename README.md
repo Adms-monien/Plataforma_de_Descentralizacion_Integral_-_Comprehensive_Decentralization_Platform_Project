@@ -83,7 +83,7 @@ Documentación — Documentation
 Se reciben depositos en cripto moneda — Crypto donations accepted:
 
 
-Depositame Usdt — Send USDT:
+Depositame Usdt — Send Usdt:
 
 
 | Red/Network | Dirección/Address |
